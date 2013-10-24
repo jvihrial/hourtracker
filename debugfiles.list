@@ -1,0 +1,8 @@
+%dir /usr/lib/debug
+%dir /usr/lib/debug/.build-id
+%dir /usr/lib/debug/.build-id/82
+%dir /usr/lib/debug/usr
+%dir /usr/lib/debug/usr/bin
+/usr/lib/debug/.build-id/82/5178f4efe68f946274a5bb15b7870ba8a3bead
+/usr/lib/debug/.build-id/82/5178f4efe68f946274a5bb15b7870ba8a3bead.debug
+/usr/lib/debug/usr/bin/hourtracker.debug
